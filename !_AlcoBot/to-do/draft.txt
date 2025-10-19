@@ -1,26 +1,64 @@
-we have to do:
-cool ui
+// I propose to divide tasks by putting:
+// • [TKC]
+// • [your surname shortened]
 
-handling of real data from weight module
+// for example: 
+// [TKC] while testing, make a field for manual inputs
 
-while testing, make a field for manual inputs
+// [?] means that i have a proposal/question/comment regarding the task
 
-input for percentage of liquids
 
-*probably* add density input for 2 liquids
 
-figure out how this eNode works
+══════════ (x) Not started ══════════
+[] input for percentage of liquids
 
-add output fields for how many g (or ml) we have
+[] input for tare
 
-output fields for telling if we should pour more, poured right enough, poured too much, so we have to increase mass of other part to maintain percentage
+[] while testing, make a field for manual inputs
 
-*probably* button for simulating some kind of pump, which pours liquids in. for pump we need different window to set up:
+[] handling of real data from weight module
+
+[?] *probably* add density input for 2 liquids <- i suppose we can have these as fixed values / drop-down lists
+
+[] figure out how this eNode works
+
+[] add output fields for how many g (or ml) we have 
+
+[] output fields for telling if we should pour more, poured right enough, poured too much, so we have to increase mass of other part to maintain percentage
+
+[] *maybe* knowing "soda" percentage of liquids calculate amount of C2H5OH in resulting liquid
+
+[] *probably* button for simulating some kind of pump, which pours liquids in. for pump we need different window to set up:
 speed (g(ml)/s)
 some other things(think about it)
 button for manual pouring
 
-*maybe* knowing "soda" percentage of liquids calculate amount of C2H5OH in resulting liquid
-*maybe* some funny anims
 *maybe* warning after you drink too much
-*MAYBE* button to pass car keys
+
+[] *MAYBE* button to pass car keys <- not a "maybe" (¬‿¬) 
+// But if seriously, i suppose we should design it in a way that it can be used for both *interesting* purposes, and practical tasks. 
+// We have to keep in mind that our projects might be shown to [Гуменюк/Скляр/Любомир].
+// And i suppose they wont really tolerate such thingies... especially if we will ask them to get a bonus mark for this project. 
+// Maybe we can present it as some kind of chemistry calculator?
+
+
+══════════ (→) In progress ══════════
+
+
+══════════ (✓) Completed ══════════
+
+
+// Regarding UI and anims
+// theoretically speaking, we can use an ascii artstyle...? (like in a fancy linux terminal)
+// for instance a progress bar like this one: https://github.com/superjojo140/ascii-bar?tab=readme-ov-file
+// though i am not really sure.
+　　　　　 　  ____
+　　　　　  ／＞　　フ - now the only thing left is to
+　　　　　 |　 _　 _l       actually complete our project
+　 　　　 ／` ミ＿xノ
+　　 　 /　　　 　 |
+　　　 /　 ヽ　　 ﾉ
+　 　 │　　|　|　|
+　／￣|　　 |　|　|
+　| (￣ヽ＿ヽ)__) __)
+　＼二つ
