@@ -1,0 +1,26 @@
+we have to do:
+cool ui
+
+handling of real data from weight module
+
+while testing, make a field for manual inputs
+
+input for percentage of liquids
+
+*probably* add density input for 2 liquids
+
+figure out how this eNode works
+
+add output fields for how many g (or ml) we have
+
+output fields for telling if we should pour more, poured right enough, poured too much, so we have to increase mass of other part to maintain percentage
+
+*probably* button for simulating some kind of pump, which pours liquids in. for pump we need different window to set up:
+speed (g(ml)/s)
+some other things(think about it)
+button for manual pouring
+
+*maybe* knowing "soda" percentage of liquids calculate amount of C2H5OH in resulting liquid
+*maybe* some funny anims
+*maybe* warning after you drink too much
+*MAYBE* button to pass car keys
