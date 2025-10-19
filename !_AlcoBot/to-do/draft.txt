@@ -51,7 +51,8 @@ button for manual pouring
 // Regarding UI and anims
 // theoretically speaking, we can use an ascii artstyle...? (like in a fancy linux terminal)
 // for instance a progress bar like this one: https://github.com/superjojo140/ascii-bar?tab=readme-ov-file
-// though i am not really sure.
+// i will be happy to take the task of designing UI and figuring out all of those animations
+// but thats just my opinion
 　　　　　 　  ____
 　　　　　  ／＞　　フ - now the only thing left is to
 　　　　　 |　 _　 _l       actually complete our project
