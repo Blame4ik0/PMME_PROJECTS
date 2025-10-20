@@ -67,5 +67,10 @@ button for manual pouring
 
 UPD:
 • Normal tutorials [TKC]
-• Add breaking point force mode [BL4]
-• Text holo effect (random moving across time with certain chance and delay) [TKC & BL4]
+• Add breaking point force mode [BL4] [cancelled]
+• Text holo effect (random moving across time with certain chance and delay) [TKC & BL4] [cancelled]
+• Mode for compounds of 2 things, knowing desired mass of mix and proportions [BL4]
+• Some kind of sales mode:
+	price of thing
+	price of boxing and shipping
+	checking if we keep within limits
