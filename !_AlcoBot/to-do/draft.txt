@@ -63,3 +63,9 @@ button for manual pouring
 　／￣|　　 |　|　|
 　| (￣ヽ＿ヽ)__) __)
 　＼二つ
+
+
+UPD:
+• Normal tutorials [TKC]
+• Add breaking point force mode [BL4]
+• Text holo effect (random moving across time with certain chance and delay) [TKC & BL4]
