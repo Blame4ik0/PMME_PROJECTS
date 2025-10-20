@@ -10,11 +10,11 @@
 
 
 ══════════ (x) Not started ══════════
-[] input for percentage of liquids
+[BL4] input for percentage of liquids
 
-[] input for tare
+[BL4] input for tare
 
-[] while testing, make a field for manual inputs
+[BL4] while testing, make a field for manual inputs
 
 [] handling of real data from weight module
 
@@ -22,20 +22,20 @@
 
 [] figure out how this eNode works
 
-[] add output fields for how many g (or ml) we have 
+[BL4] add output fields for how many g (or ml) we have 
 
-[] output fields for telling if we should pour more, poured right enough, poured too much, so we have to increase mass of other part to maintain percentage
+[BL4] output fields for telling if we should pour more, poured right enough, poured too much, so we have to increase mass of other part to maintain percentage
 
-[] *maybe* knowing "soda" percentage of liquids calculate amount of C2H5OH in resulting liquid
+[?] *maybe* knowing "soda" percentage of liquids calculate amount of C2H5OH in resulting liquid
 
-[] *probably* button for simulating some kind of pump, which pours liquids in. for pump we need different window to set up:
+[?] *probably* button for simulating some kind of pump, which pours liquids in. for pump we need different window to set up:
 speed (g(ml)/s)
 some other things(think about it)
 button for manual pouring
 
 *maybe* warning after you drink too much
 
-[] *MAYBE* button to pass car keys <- not a "maybe" (¬‿¬) 
+[BL4 TKC] *MAYBE* button to pass car keys <- not a "maybe" (¬‿¬) 
 // But if seriously, i suppose we should design it in a way that it can be used for both *interesting* purposes, and practical tasks. 
 // We have to keep in mind that our projects might be shown to [Гуменюк/Скляр/Любомир].
 // And i suppose they wont really tolerate such thingies... especially if we will ask them to get a bonus mark for this project. 
