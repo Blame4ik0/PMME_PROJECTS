@@ -1,6 +1,6 @@
 // I propose to divide tasks by putting:
 // • [TKC]
-// • [your surname shortened]
+// • [your surname shortened] [BL4]
 
 // for example: 
 // [TKC] while testing, make a field for manual inputs
