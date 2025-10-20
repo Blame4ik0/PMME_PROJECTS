@@ -1,13 +1,3 @@
-// I propose to divide tasks by putting:
-// • [TKC]
-// • [your surname shortened] [BL4]
-
-// for example: 
-// [TKC] while testing, make a field for manual inputs
-
-// [?] means that i have a proposal/question/comment regarding the task
-
-
 
 ══════════ (x) Not started ══════════
 [BL4] input for percentage of liquids
@@ -33,14 +23,7 @@ speed (g(ml)/s)
 some other things(think about it)
 button for manual pouring
 
-*maybe* warning after you drink too much
-
-[BL4 TKC] *MAYBE* button to pass car keys <- not a "maybe" (¬‿¬) 
-// But if seriously, i suppose we should design it in a way that it can be used for both *interesting* purposes, and practical tasks. 
-// We have to keep in mind that our projects might be shown to [Гуменюк/Скляр/Любомир].
-// And i suppose they wont really tolerate such thingies... especially if we will ask them to get a bonus mark for this project. 
-// Maybe we can present it as some kind of chemistry calculator?
-
+[TKC] Normal tutorials
 
 ══════════ (→) In progress ══════════
 
@@ -48,26 +31,7 @@ button for manual pouring
 ══════════ (✓) Completed ══════════
 
 
-// Regarding UI and anims
-// theoretically speaking, we can use an ascii artstyle...? (like in a fancy linux terminal)
-// for instance a progress bar like this one: https://github.com/superjojo140/ascii-bar?tab=readme-ov-file
-// i will be happy to take the task of designing UI and figuring out all of those animations
-// but thats just my opinion
-　　　　　 　  ____
-　　　　　  ／＞　　フ - now the only thing left is to
-　　　　　 |　 _　 _l       actually complete our project
-　 　　　 ／` ミ＿xノ
-　　 　 /　　　 　 |
-　　　 /　 ヽ　　 ﾉ
-　 　 │　　|　|　|
-　／￣|　　 |　|　|
-　| (￣ヽ＿ヽ)__) __)
-　＼二つ
-
-
 UPD:
-• Normal tutorials [TKC]
-• Add breaking point force mode [BL4] [cancelled]
 • Text holo effect (random moving across time with certain chance and delay) [TKC & BL4] [cancelled]
 • Mode for compounds of 2 things, knowing desired mass of mix and proportions [BL4]
 • Some kind of sales mode:
