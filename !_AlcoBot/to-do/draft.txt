@@ -3,15 +3,15 @@
 
 [✓] handling of real data from weight module
 
-[?] *probably* add density input for 2 liquids <- i suppose we can have these as fixed values / drop-down lists
+[✓] ***probably* add density input for 2 liquids <- i suppose we can have these as fixed values / drop-down lists** this was implemented in other way
 
 [✓] figure out how this eNode works
 
 [BL4] add output fields for how many g (or ml) we have 
 
-[?] *maybe* knowing "soda" percentage of liquids calculate amount of C2H5OH in resulting liquid
+[#] *maybe* knowing "soda" percentage of liquids calculate amount of C2H5OH in resulting liquid
 
-[?] *probably* button for simulating some kind of pump, which pours liquids in. for pump we need different window to set up:
+[#] *probably* button for simulating some kind of pump, which pours liquids in. for pump we need different window to set up:
 speed (g(ml)/s)
 some other things(think about it)
 button for manual pouring
@@ -20,12 +20,13 @@ button for manual pouring
 
 ══════════ (→) In progress ══════════
 
+══════════ (#) Denied idea ══════════
 
 ══════════ (✓) Completed ══════════
 
 
 UPD:
-• Text holo effect (random moving across time with certain chance and delay) [TKC & BL4]
+• Text holo effect (random moving across time with certain chance and delay) [TKC]
 • Mode for compounds of 2 things, knowing desired mass of mix and proportions [✓]
 
 !!!!!
