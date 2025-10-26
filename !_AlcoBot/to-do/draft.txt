@@ -1,20 +1,13 @@
 
 ══════════ (x) Not started ══════════
-[BL4] input for percentage of liquids
 
-[BL4] input for tare
-
-[BL4] while testing, make a field for manual inputs
-
-[] handling of real data from weight module
+[✓] handling of real data from weight module
 
 [?] *probably* add density input for 2 liquids <- i suppose we can have these as fixed values / drop-down lists
 
-[] figure out how this eNode works
+[✓] figure out how this eNode works
 
 [BL4] add output fields for how many g (or ml) we have 
-
-[BL4] output fields for telling if we should pour more, poured right enough, poured too much, so we have to increase mass of other part to maintain percentage
 
 [?] *maybe* knowing "soda" percentage of liquids calculate amount of C2H5OH in resulting liquid
 
@@ -32,9 +25,9 @@ button for manual pouring
 
 
 UPD:
-• Text holo effect (random moving across time with certain chance and delay) [TKC & BL4] [cancelled]
-• Mode for compounds of 2 things, knowing desired mass of mix and proportions [BL4]
-• Some kind of sales mode:
-	price of thing
-	price of boxing and shipping
-	checking if we keep within limits
+• Text holo effect (random moving across time with certain chance and delay) [TKC & BL4]
+• Mode for compounds of 2 things, knowing desired mass of mix and proportions [✓]
+
+!!!!!
+[TKC] in compounds mode add a place for 3 buttons (tare zero ptare) and add them. and also add field which shows current net weight [TKC]
+!!!!!
