@@ -7,7 +7,7 @@
 
 [✓] figure out how this eNode works
 
-[BL4] add output fields for how many g (or ml) we have 
+[BL4] [#] add output fields for how many g (or ml) we have 
 
 [#] *maybe* knowing "soda" percentage of liquids calculate amount of C2H5OH in resulting liquid
 
